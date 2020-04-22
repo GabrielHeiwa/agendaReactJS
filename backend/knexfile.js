@@ -1,5 +1,5 @@
 // Update with your config settings.
-
+//Arquivo de configuração do knex.js.
 module.exports = {
 
   development: {
